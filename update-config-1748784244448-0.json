@@ -1,0 +1,17 @@
+{
+  "name": "Kruskal-s-Algorithm",
+  "version": "1.5.0",
+  "description": "Enhanced with new features and improvements",
+  "updated": "2025-06-01T13:24:04.522Z",
+  "features": [
+    "Data validation",
+    "Error handling",
+    "Performance optimization",
+    "Comprehensive testing"
+  ],
+  "config": {
+    "debug": true,
+    "maxRetries": 1,
+    "timeout": 1591
+  }
+}
